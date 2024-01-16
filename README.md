@@ -14,6 +14,6 @@
 - Creative software development projects that require unique and effective problem-solving approaches
 ## 📫 How to reach me
 - Email: [yan00123@algonquinlive.com]
-- LinkedIn: (https://www.linkedin.com/in/jiaxin-yan-5952a6195/)
+- LinkedIn: [https://www.linkedin.com/in/jiaxin-yan-5952a6195/]
 ## 😄 Pronouns: ...
 - She/Her
