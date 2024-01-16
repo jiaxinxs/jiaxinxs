@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @jiaxinxs
-- Welcome to my GitHub profile! I am currently a Level 3 student in the Computer Programming program at Algonquin College, where I am honing my skills in various programming languages and development techniques. My passion for technology drives me to constantly explore and innovate in the world of software development.
+- Welcome to my GitHub profile! I am currently a Level 3 student in Computer Programming at Algonquin College, where I am honing my skills in various programming languages and development techniques. My passion for technology drives me to constantly explore and innovate in the world of software development.
 ## 👀 I’m interested in
 - Java programming
 - The positive outcomes and feedback that result from successful programming
